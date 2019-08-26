@@ -1,13 +1,13 @@
-# `@azz/prettier-config`
+# `oberon-prettier-config`
 
-> My personal [Prettier](https://prettier.io) config.
+> Oberon's standard [Prettier](https://prettier.io) config.
 
 ## Usage
 
 **Install**:
 
 ```bash
-$ yarn add --dev @azz/prettier-config
+$ npm install -D oberon-prettier-config
 ```
 
 **Edit `package.json`**:
@@ -15,6 +15,9 @@ $ yarn add --dev @azz/prettier-config
 ```jsonc
 {
   // ...
-  "prettier": "@azz/prettier-config"
+  "prettier": "oberon-prettier-config"
 }
 ```
+
+**Related**:
+- Oberon's TSLint config: [tslint-config-oberon](https://github.com/oberonamsterdam/tslint-config-oberon).

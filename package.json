@@ -1,9 +1,9 @@
 {
-  "name": "@azz/prettier-config",
+  "name": "oberon-prettier-config",
   "version": "1.0.0",
-  "description": "My personal Prettier config",
+  "description": "Oberon's standard prettier config",
   "main": "index.json",
-  "repository": "git@github.com:azz/prettier-config.git",
-  "author": "Lucas Azzola <lucas@azzola.dev>",
+  "repository": "git@github.com:oberon/oberon-prettier-config",
+  "author": "Oberon <devs@oberon.nl>",
   "license": "MIT"
 }
