@@ -7,7 +7,7 @@
 **Install**:
 
 ```bash
-$ npm install -D oberon-prettier-config
+$ npm install -D prettier oberon-prettier-config
 ```
 
 **Edit `package.json`**:
